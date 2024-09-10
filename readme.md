@@ -48,9 +48,9 @@ git commit -m "mensagem legal sobre o commit"
 
 ou
 
-![alt text](image.png)
+![alt text](assets/docs/image.png)
 
-![alt text](image-2.png)
+![alt text](assets/docs/image-2.png)
 
 8 - dê push
 
@@ -61,6 +61,6 @@ git push -u origin minha_branch
 
 ou
 
-![alt text](image-3.png)
+![alt text](assets/docs/image-3.png)
 
 9 - vá até o vscode e clique em contribuir no canto superior direito e abra o pull request :)
