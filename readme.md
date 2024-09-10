@@ -53,3 +53,14 @@ ou
 ![alt text](image-2.png)
 
 8 - dê push
+
+
+```bash
+git push -u origin minha_branch
+```
+
+ou
+
+![alt text](image-3.png)
+
+9 - vá até o vscode e clique em contribuir no canto superior direito e abra o pull request :)
